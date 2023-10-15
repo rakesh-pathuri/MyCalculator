@@ -19,6 +19,7 @@
             <configuration>
                 <archive>
                     <manifest>
+                        <addClasspath>true</addClasspath>
                         <mainClass>com.Calculator.MainClass</mainClass>
                     </manifest>
                 </archive>
