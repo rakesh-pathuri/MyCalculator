@@ -44,7 +44,7 @@ public class Calculator {
         inText = new JTextField("0");
         inText.setBounds(x[0], y[0], 350, 70);
         inText.setEditable(false);
-        inText.setBackground(Color.WHITE);
+        inText.setBackground(Color.GREEN);
         inText.setFont(new Font("Comic Sans MS", Font.PLAIN, 33));
         window.add(inText);
 
