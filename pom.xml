@@ -20,7 +20,7 @@
                 <archive>
                     <manifest>
                         <addClasspath>true</addClasspath>
-                        <mainClass>com.Calculator.MainClass</mainClass>
+                        <mainClass>com.Calculator.Calculator</mainClass>
                     </manifest>
                 </archive>
             </configuration>
