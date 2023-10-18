@@ -30,7 +30,7 @@ public class Calculator {
     private double val = 0; // Save the value typed for calculation
 
     public Calculator() {
-        window = new JFrame("Calculator");
+        window = new JFrame("Calculator1");
         window.setSize(WINDOW_WIDTH, WINDOW_HEIGHT);
         window.setLocationRelativeTo(null); // Move window to center
 
